@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Class Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Xóa tất cả</string>
+    <!--Menu-->
+    <string name="menu_sinh_vien">Quản lý Sinh Viên</string>
+    <string name="menu_mon_hoc">Quản lý Môn học</string>
+    <string name="menu_dang_ky_mon_hoc">Đăng ký Môn Học</string>
+    <string name="menu_thoi_khoa_bieu">Thời Khóa Biểu</string>
+    <string name="menu_diem_danh">Điểm danh</string>
+    <string name="menu_import_excel">Import từ File Excel</string>
+    <string name="menu_vang_mat">Kết quả điểm danh</string>
+    <string name="action_search">Search</string>
+    <string name="delete">Delete</string>
+</resources>

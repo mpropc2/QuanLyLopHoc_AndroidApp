@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@mipmap/quanlysv"
+            android:id="@+id/nav_sinh_vien"
+            android:title="@string/menu_sinh_vien" />
+        <item
+            android:icon="@mipmap/quanlymh"
+            android:id="@+id/nav_mon_hoc"
+            android:title="@string/menu_mon_hoc" />
+        <item
+            android:icon="@mipmap/quanlytkb"
+            android:id="@+id/nav_thoi_khoa_bieu"
+            android:title="@string/menu_thoi_khoa_bieu" />
+        <item
+            android:icon="@mipmap/diemdanh"
+            android:id="@+id/nav_diem_danh"
+            android:title="@string/menu_diem_danh" />
+        <item
+            android:icon="@mipmap/fileexcel"
+            android:id="@+id/nav_import_excel"
+            android:title="@string/menu_import_excel" />
+    </group>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_diem_danh"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Ddi" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+</menu>
